@@ -10,7 +10,7 @@ upvote(s) and answer(s) from [stackoverflow](https://stackoverflow.com/questions
 
 First get the repo ready on your PC by cloning it from github
 ```
-  git clone https://github.com/Bucephalus-lgtm/crawler.git
+  git clone https://github.com/Abhijit536/crawler.git
 ```
 
 Then, install the required library 
@@ -58,4 +58,4 @@ npm start
 
 ## Author
 
-- [@Bhargab Nath](https://github.com/Bucephalus-lgtm)
+- [@Abhijit Kalita](https://github.com/Abhijit536)
